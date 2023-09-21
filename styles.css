@@ -1,0 +1,156 @@
+/* Estilos personalizados para a apresentação de imagens */
+.image-slider {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    padding: 10px;
+}
+
+.carousel-indicators {
+    bottom: -30px;
+}
+
+.carousel-indicators li {
+    background-color: #999;
+    border: none;
+    width: 10px;
+    height: 10px;
+    margin-right: 5px;
+}
+
+.carousel-indicators .active {
+    background-color: #007BFF;
+}
+
+/* Estilo do cabeçalho */
+header {
+    background-color: #007BFF;
+    color: #fff;
+    text-align: center;
+    padding: 30px 0;
+}
+
+/* Estilo dos ícones de telefone e redes sociais */
+.phone-icon, .social-icon {
+    font-size: 24px;
+    margin-right: 5px;
+}
+
+/* Estilo do menu de opções */
+.navbar {
+    background-color: #333;
+}
+
+.navbar-toggler-icon {
+    background-color: #fff;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.nav-item {
+    margin: 0 10px;
+}
+
+.nav-link {
+    color: #fff;
+    font-weight: bold;
+}
+
+/* Estilo da seção de serviços */
+.service-section {
+    background-color: #f8f9fa;
+    padding: 40px 0;
+}
+
+/* Estilo do rodapé */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+/* Estilos personalizados para a apresentação de imagens */
+        .image-slider {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .carousel-caption {
+            background-color: rgba(0, 0, 0, 0.7);
+            color: #fff;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            text-align: center;
+            padding: 10px;
+        }
+
+        .carousel-indicators {
+            bottom: -30px;
+        }
+
+        .carousel-indicators li {
+            background-color: #999;
+            border: none;
+            width: 10px;
+            height: 10px;
+            margin-right: 5px;
+        }
+
+        .carousel-indicators .active {
+            background-color: #007BFF;
+        }
+
+        /* Estilo do cabeçalho */
+        header {
+            background-color: #007BFF;
+            color: #fff;
+            text-align: center;
+            padding: 30px 0;
+        }
+
+        /* Estilo dos ícones de telefone e redes sociais */
+        .phone-icon, .social-icon {
+            font-size: 24px;
+            margin-right: 5px;
+        }
+
+        /* Estilo do menu de opções */
+        .navbar {
+            background-color: #333;
+        }
+
+        .navbar-toggler-icon {
+            background-color: #fff;
+        }
+
+        .navbar-nav {
+            margin-left: auto;
+        }
+
+        .nav-item {
+            margin: 0 10px;
+        }
+
+        .nav-link {
+            color: #fff;
+            font-weight: bold;
+        }
+
+        /* Estilo da seção de serviços */
+        .service-section {
+            background-color: #f8f9fa;
+            padding: 40px 0;
+        }
